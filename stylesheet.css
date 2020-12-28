@@ -172,6 +172,7 @@ color:#FFFFFF;
   height:30px;
   width:30px;
   padding: 3px;
+  outline: 0;
 }
 
 .controls .play_button{
