@@ -162,7 +162,7 @@ color:#FFFFFF;
   margin-bottom:10px;
   width: 100%;
   display: inline-flex;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .controls button{
@@ -176,14 +176,12 @@ color:#FFFFFF;
 }
 
 .controls .play_button{
-  position: absolute;
-  left: 5%;
+  width: 5%;
 }
 
 .controls .reset_button{
-  position: absolute;
-  left: 20%;
   color:#f0dc00;
+  padding-top: 2%;
 }
 
 .controls .reset_button:hover{
